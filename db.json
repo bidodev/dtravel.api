@@ -34,7 +34,11 @@
       "productName": "rome",
       "description": "When you visit the Eternal City, prepare to cross a few must-see attractions – including the Colosseum, the Trevi Fountain and the Pantheon – off of your bucket list. Additional treasures, such as St. Peter's Basilica and the Sistine Chapel, can be found in nearby Vatican City. Escape the tourist crowds by taking a twilight stroll along the cobblestone streets of Trastevere, or head to Mercato Centrale Roma to sample local delicacies like gelato and pizza. Before leaving, peruse some of Rome's lesser-known museums, art galleries and boutiques.",
       "src": "./img/rome.jpg",
-      "additionalImages": ["./img/rome2.jpg", "./img/rome3.jpg", "./img/rome4.jpg"],
+      "additionalImages": [
+        "./img/rome2.jpg",
+        "./img/rome3.jpg",
+        "./img/rome4.jpg"
+      ],
       "country": "italy",
       "continent": "europe",
       "type": "city",
@@ -100,7 +104,11 @@
       "productName": "phuket",
       "description": "Located in southern Thailand, Phuket offers something for everyone, especially budget-minded travelers. Everything from accommodations to spa treatments to boat tours come with a low price tag. For stunning scenery, check out the limestone cliffs of Phang Nga Bay and lounge on Phuket's gorgeous white sand beaches. Other must-sees include Wat Chalong Temple and the Big Buddha. Once the sun sets, take part in the island's lively nightlife scene.",
       "src": "./img/phuket.jpg",
-      "additionalImages": ["./img/phuket2.jpg", "./img/phuket3.jpg", "./img/phuket4.jpg"],
+      "additionalImages": [
+        "./img/phuket2.jpg",
+        "./img/phuket3.jpg",
+        "./img/phuket4.jpg"
+      ],
       "country": "thailand",
       "continent": "asia",
       "type": "tropical",
@@ -121,5 +129,17 @@
       "difficulty": "easy",
       "bestMatch": false
     }
+  ],
+  "backgrounds": [
+    "./img/img-background/photo0.jpg",
+    "./img/img-background/venice.jpg",
+    "./img/img-background/peles-castle.jpg",
+    "./img/img-background/romania-mount.jpg",
+    "./img/img-background/aleppo.jpg",
+    "./img/img-background/photo9.jpg",
+    "./img/img-background/photo10.jpg",
+    "./img/img-background/photo11.jpg",
+    "./img/img-background/laurel-kiev.jpg",
+    "./img/img-background/sunset-floripa.jpg"
   ]
 }
